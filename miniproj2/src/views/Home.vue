@@ -1,16 +1,12 @@
 <template>
-  <div class="container-fluid my-body">
+  <section class="container-fluid my-body">
       <h1>ANIMALEC API</h1> 
       <p>API do Livro da FCA "Desenvolvimento Avançado para a Web"</p>
       <img class="my-img" src="../assets/logo_big.png">
-  </div>
+  </section>
 </template>
 
 <style scoped>
-  *{
-      font-family: 'Montserrat', sans-serif;
-  }
- 
   .my-body {
     background-color: #2b589f !important;
     height: 100vh;
@@ -26,13 +22,4 @@
     margin-left: auto;
     margin-right: auto;
   }
-</style>
-
-<script>
-
-</script>
-
-
-
-
-      
+</style>     

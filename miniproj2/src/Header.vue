@@ -1,7 +1,7 @@
 <template>
 <nav class="navbar navbar-expand-sm fixed-top">
-    <div class="container-fluid">
-        <div class="navbar-collapse collapse">
+    <section class="container-fluid">
+        <section class="navbar-collapse collapse">
             <ul class="navbar-nav" style="margin-left:100px;position:sticky;">
                 <li class="nav-item active">
                     <router-link to="/" class="nav-link" style="margin-right:100px; font-size: 30px;">
@@ -13,8 +13,8 @@
                     <router-link to="/" class="nav-link" style="margin-right:100px; font-size: 30px;">Animalec</router-link>
                 </li>
             </ul>
-        </div>
-    </div>
+        </section>
+    </section>
 </nav>
 
 </template>

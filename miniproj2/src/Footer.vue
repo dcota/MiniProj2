@@ -1,7 +1,7 @@
 <template>
-    <div class="container-fluid">
-        <div class="row footer"> 
-            <div class="col-sm-6 text-center">
+    <section class="container-fluid">
+        <section class="row footer"> 
+            <section class="col-sm-6 text-center">
                 <ul class="social-media">
                     <li>
                         <a href="#"><i class="fa fa-facebook " aria-hidden="true"></i></a>
@@ -19,13 +19,13 @@
                         <a href="#"><i class="fa fa-envelope " aria-hidden="true"></i></a>
                     </li>
                 </ul>
-            </div>
-            <div class="col-sm-6 text-center text-white">
+            </section>
+            <section class="col-sm-6 text-center text-white">
                 <p>© Copyright 2021 Animalec - todos os direitos reservados</p>
                        
-            </div>        
-        </div> 
-    </div>  
+            </section>        
+        </section> 
+    </section>  
 </template>
 
 <style scoped>
