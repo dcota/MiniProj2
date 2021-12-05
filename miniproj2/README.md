@@ -1,24 +1,13 @@
-# miniproj2
+# MiniProj2
 
-## Project setup
-```
-npm install
-```
+Tarefa 3.2: Miniprojeto 2 - Programação Web Avançada  
+Aluno: Duarte Cota
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto de implementação de duas novas entidades para a aplicação Animalec em Vue.JS (front-end)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Ficheiro index.html na paste public
 
-### Lints and fixes files
-```
-npm run lint
-```
+Implementação em SPA com HTMl semântico
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
