@@ -1,5 +1,5 @@
 <template>
-<section class="scrolling-component"  ref="scrollcomponent">
+<section class="scrolling-component" ref="scrollcomponent">
 	<section class="container my-body">
 		<h1 class="text-center">EDITAR EXPERT</h1>
 		<form action="">
