@@ -6,7 +6,7 @@
 			</section>
 			<section class="col-sm-4">
 				<button v-on:click="newSponsor" type="button" class="btn btn-outline-primary top-btn me-3"><i class="fas fa-plus-square me-1" aria-hidden="true"></i>Adicionar</button>
-				<button v-on:click="gotoMain" type="button" class="btn btn-outline-primary top-btn"><i class="fas fa-edit me-1" aria-hidden="true"></i>Voltar</button>
+				<button v-on:click="gotoMain" type="button" class="btn btn-outline-primary top-btn"><i class="fas fa-edit me-1"  aria-hidden="true"></i>Voltar</button>
 			</section>
 		</section>
 		<section class="card mt-5 ">

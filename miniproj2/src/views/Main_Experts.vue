@@ -16,7 +16,7 @@
 						<tr>
 						<th>Nome</th>
 							<th>Tipo</th>
-							<th>Data Associação</th>
+							<th>Data Associação </th>
 							<th class="text-center">Ação</th>
 						</tr>
 					</thead>

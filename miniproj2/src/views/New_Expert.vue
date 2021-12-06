@@ -1,5 +1,5 @@
 <template>
-	<section class="scrolling-component" ref="scrollcomponent">
+	<section class="scrolling-component"  ref="scrollcomponent">
 		<section class="container my-body">
 			<h1 class="text-center">NOVO EXPERT</h1>
 			<section class="row">		
